@@ -1,0 +1,1 @@
+<img src="{{ asset('assets/img/icons/logo.png') }} " alt="{{ config('app.name', 'Laravel') }}" width="58" />
